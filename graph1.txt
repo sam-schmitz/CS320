@@ -1,0 +1,9 @@
+undirected
+a b c d e f
+a c
+a d
+a e
+c d
+e f
+e b
+f b

@@ -1,0 +1,29 @@
+Bubble Sort Experiment
+By: Sam Schmitz
+This file contains some of the information about how the Bubble sort expirement went
+
+Here is a sample of when the program is run:
+This program compares the speeds of the Bubble Sort Algorithm and an Expiremental one
+Enter the test list size: 5000
+Enter the number of trials: 3
+
+Original Bubble Sort:
+trial 1: 4
+trial 2: 5
+trial 3: 3
+total: 13.161434888839722
+
+average: 4.387144962946574
+
+Experimental Bubble Sort:
+trial 1: 2
+trial 2: 2
+trial 3: 2
+total: 8.451375722885132
+
+average: 2.8171252409617105
+
+The Expiremental Bubble Sort was Faster
+
+As I have tested with large list sizes(>2000) the experimental version is Faster
+At test smaller test sizes the results are less noticeable and can potentially swing either way.
